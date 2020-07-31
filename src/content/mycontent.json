@@ -36,19 +36,27 @@
 	],
 	"ProjectsStartLine": "Some of the side projects I did can be found here :",
 	"Projects": [{
-			"name": "EisenList",
+			"name": "Budget Manager App",
 			"link": "https://github.com/adityaketkar/eisenlist"
 		},
 		{
-			"name": "DelOr",
+			"name": "COVID-19 Tracker",
 			"link": "https://bitsdelor.wixsite.com/delor"
 		},
 		{
-			"name": "Alexa Music Companion",
+			"name": "Tower of Hanoi Animator",
 			"link": "https://medium.com/@ketkaraditya/hey-alexa-meet-music-1f7319750af7"
 		},
 		{
-			"name": "Gatsby Personal Webpage",
+			"name": "Car Rental System Application",
+			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+		},
+		{
+			"name": "Website for Student Feedback System",
+			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
+		},
+		{
+			"name": "Car Rental WebApp",
 			"link": "https://github.com/adityaketkar/circle-packing-personal-homepage"
 		}
 	],
